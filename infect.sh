@@ -1,6 +1,5 @@
-# A tool by nitro from www.noob-hackers.com
-# Be a unique person not copy cat
-# Colours
+# A tool By RXS
+# Open Sourch
 #-----------------
 red="\e[91m"
 rset="\e[0m"
