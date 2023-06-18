@@ -135,6 +135,6 @@ __EXIT__ :
 
 # Acknowledgements
 ## Special Thanks <span style='font-size:45px;'>&#128071;</span>
-* Reyad X Shipu
+<a href="#"><img title="REYAD X SHIPU" src="https://img.shields.io/badge/REYAD X SHIPU-SCRIPTgray?style=for-the-badge"></a>
 
 ## Thanks For Using This Tool <span style='font-size:45px;'>&#128536;</span> <span style='font-size:45px;'>&#128525;</span>
