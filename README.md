@@ -86,7 +86,7 @@ ls
 ```
 bash infect.sh
 ```
-
+<br>
 [+]-- Now you need internet connection to continue further process...
 [+]-- You can select any option by clicking on your keyboard
 [+]-- Note:- Don't delete any of the scripts included in lol directory (folder)
@@ -109,8 +109,8 @@ __EXIT__ :
 
 <br>
 <p align="center">
-<img width="50%" src="https://user-images.githubusercontent.com/49580304/96560925-c32d5880-1273-11eb-99e6-f6c85fa00783.jpg"/>
-<img width="46%" src="https://user-images.githubusercontent.com/49580304/96560932-c4f71c00-1273-11eb-98d5-78210392ad54.jpg"/>
+<img width="50%" src="https://i.ibb.co/DGQw05x/SA.jpg"/>
+<img width="46%" src="https://i.ibb.co/N3PsWkw/ST.jpg"/>
 </p>
 
 ## CONNECT WITH US :
@@ -125,10 +125,10 @@ __EXIT__ :
 [![Instagram](https://img.shields.io/badge/WHATSAPP-JOINGROUP-red?style=for-the-badge&logo=whatsapp)](https://rebrand.ly/hckrgroups)
 <a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
 
-## BUY ME A COFFEE :
-
+#### 💰YOU CAN HELP ME BY DONATING
 <p align="center">
-<a href="https://rebrand.ly/BuyCoffee"><img title="Noob Hackers" src="https://camo.githubusercontent.com/ae8af018f80649f3d379eb23dbf59acceaffa24e/68747470733a2f2f6c69626572617061792e636f6d2f6173736574732f776964676574732f646f6e6174652e737667"></a>
+
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/binodxd) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/binodxd) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/binodxd) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/binodxd)</a>
 </p>
 
 ## WARNING : 
