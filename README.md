@@ -9,7 +9,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/BINOD-XD"><img title="Github" src="https://img.shields.io/badge/BINOD-XD-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="riyadhossainshanto5@gmail.com"><img title="Gmail" src="https://img.shields.io/badge/Gmail-Reyad Hossain-green?style=for-the-badge&logo=Gmail"></a>
+<a href="https://gmail.google.com/gmail/?view=cm&fs=1&to=riyadhossainshanto5@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-Reyad Hossain-green?style=for-the-badge&logo=Gmail"></a>
 </p>
 <p align="center">
 <a href="https://github.com/BINOD-XD"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
